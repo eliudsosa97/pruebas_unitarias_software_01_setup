@@ -1,0 +1,23 @@
+{
+  "name": "pruebas_unitarias_software_01_setup",
+  "version": "1.0.0",
+  "description": "Actividad 2: Setup del entorno de pruebas unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliudsosa97/pruebas_unitarias_software_01_setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliudsosa97/pruebas_unitarias_software_01_setup/issues"
+  },
+  "homepage": "https://github.com/eliudsosa97/pruebas_unitarias_software_01_setup#readme",
+  "devDependencies": {
+    "jest": "30.4.2"
+  }
+}
